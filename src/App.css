@@ -1,0 +1,22 @@
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.neon {
+  background-color: #0f0f0f;
+  color: #39ff14;
+  border: 3px solid #39ff14;
+  text-shadow: 0 0 5px #39ff14;
+}
+
+.night {
+  background-color: #1a1a2e;
+  color: #e0e0e0;
+  border: 2px solid #0f3460;
+}
